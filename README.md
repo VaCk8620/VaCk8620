@@ -24,7 +24,7 @@ My day-to-day lives in data architecture, warehousing, and BI implementation. He
  
 | Repo | Description | Status |
 |------|-------------|--------|
-| [rescue-ME-](https://github.com/VaCk8620/rescue-ME-) | Emergency & disaster response app | 🔧 In progress |
+
  
 *More coming soon — this profile is just getting started.*
  
