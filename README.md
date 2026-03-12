@@ -13,6 +13,7 @@ My day-to-day lives in data architecture, warehousing, and BI implementation. He
 - SQL · Python · Data Modeling
  
 **Currently exploring**
+- AI projects
 - Home NAS setup & self-hosted infrastructure
 - Mechatronics & hardware projects
 - Automating data workflows with Python
